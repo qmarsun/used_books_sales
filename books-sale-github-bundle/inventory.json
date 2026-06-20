@@ -1,0 +1,290 @@
+[
+  {
+    "id": "B01",
+    "name": "Computer Confluence",
+    "price": 6,
+    "image": "images/book_01.jpg"
+  },
+  {
+    "id": "B02",
+    "name": "UNIX Primer Plus",
+    "price": 6,
+    "image": "images/book_02.jpg"
+  },
+  {
+    "id": "B03",
+    "name": "Computer Networks",
+    "price": 5,
+    "image": "images/book_03.jpg"
+  },
+  {
+    "id": "B04",
+    "name": "Basic Digital Electronics",
+    "price": 9,
+    "image": "images/book_04.jpg"
+  },
+  {
+    "id": "B05",
+    "name": "Science & Technology",
+    "price": 8,
+    "image": "images/book_05.jpg"
+  },
+  {
+    "id": "B06",
+    "name": "LitStart",
+    "price": 6,
+    "image": "images/book_06.jpg"
+  },
+  {
+    "id": "B07",
+    "name": "Patient Care Information Systems",
+    "price": 5,
+    "image": "images/book_07.jpg"
+  },
+  {
+    "id": "B08",
+    "name": "IELTS 1 Practice Tests",
+    "price": 7,
+    "image": "images/book_08.jpg"
+  },
+  {
+    "id": "B09",
+    "name": "IELTS 2 Practice Tests",
+    "price": 5,
+    "image": "images/book_09.jpg"
+  },
+  {
+    "id": "B10",
+    "name": "French Deluxe Reference Book",
+    "price": 6,
+    "image": "images/book_10.jpg"
+  },
+  {
+    "id": "B11",
+    "name": "Multiprocessor Specification",
+    "price": 7,
+    "image": "images/book_11.jpg"
+  },
+  {
+    "id": "B12",
+    "name": "Super Power Memory",
+    "price": 5,
+    "image": "images/book_12.jpg"
+  },
+  {
+    "id": "B13",
+    "name": "SpaceShipOne",
+    "price": 7,
+    "image": "images/book_13.jpg"
+  },
+  {
+    "id": "B14",
+    "name": "Getting Started in Electronics",
+    "price": 9,
+    "image": "images/book_14.jpg"
+  },
+  {
+    "id": "B15",
+    "name": "India 2020",
+    "price": 6,
+    "image": "images/book_15.jpg"
+  },
+  {
+    "id": "B16",
+    "name": "Problem Solving with Algorithms and Data Structures",
+    "price": 9,
+    "image": "images/book_16.jpg"
+  },
+  {
+    "id": "B17",
+    "name": "OCA Oracle Database 12c SQL Fundamentals",
+    "price": 8,
+    "image": "images/book_17.jpg"
+  },
+  {
+    "id": "B18",
+    "name": "Boost Your Brainpower",
+    "price": 5,
+    "image": "images/book_18.jpg"
+  },
+  {
+    "id": "B19",
+    "name": "The Elements of Style",
+    "price": 9,
+    "image": "images/book_19.jpg"
+  },
+  {
+    "id": "B20",
+    "name": "Spanish Deluxe Reference Book",
+    "price": 5,
+    "image": "images/book_20.jpg"
+  },
+  {
+    "id": "B21",
+    "name": "Effective Time Management",
+    "price": 9,
+    "image": "images/book_21.jpg"
+  },
+  {
+    "id": "B22",
+    "name": "Marvel Mixed Puzzles",
+    "price": 7,
+    "image": "images/book_22.jpg"
+  },
+  {
+    "id": "B23",
+    "name": "WordShop Level F",
+    "price": 7,
+    "image": "images/book_23.jpg"
+  },
+  {
+    "id": "B24",
+    "name": "Brain Games",
+    "price": 8,
+    "image": "images/book_24.jpg"
+  },
+  {
+    "id": "B25",
+    "name": "Software Engineering",
+    "price": 6,
+    "image": "images/book_25.jpg"
+  },
+  {
+    "id": "B26",
+    "name": "Design Patterns",
+    "price": 6,
+    "image": "images/book_26.jpg"
+  },
+  {
+    "id": "B27",
+    "name": "Real-Time Design Patterns",
+    "price": 5,
+    "image": "images/book_27.jpg"
+  },
+  {
+    "id": "B28",
+    "name": "Webster's New Thesaurus",
+    "price": 9,
+    "image": "images/book_28.jpg"
+  },
+  {
+    "id": "B29",
+    "name": "The 7 Habits of Highly Effective People",
+    "price": 9,
+    "image": "images/book_29.jpg"
+  },
+  {
+    "id": "B30",
+    "name": "JavaScript: The Definitive Guide",
+    "price": 9,
+    "image": "images/book_30.jpg"
+  },
+  {
+    "id": "B31",
+    "name": "Microsoft Project",
+    "price": 5,
+    "image": "images/book_31.jpg"
+  },
+  {
+    "id": "B32",
+    "name": "Intel Threading Building Blocks",
+    "price": 7,
+    "image": "images/book_32.jpg"
+  },
+  {
+    "id": "B33",
+    "name": "Effective Teambuilding",
+    "price": 9,
+    "image": "images/book_33.jpg"
+  },
+  {
+    "id": "B34",
+    "name": "QuickBooks 2010 Official Guide",
+    "price": 7,
+    "image": "images/book_34.jpg"
+  },
+  {
+    "id": "B35",
+    "name": "Effective C++",
+    "price": 7,
+    "image": "images/book_35.jpg"
+  },
+  {
+    "id": "B36",
+    "name": "Effective STL",
+    "price": 6,
+    "image": "images/book_36.jpg"
+  },
+  {
+    "id": "B37",
+    "name": "Inside Windows NT",
+    "price": 8,
+    "image": "images/book_37.jpg"
+  },
+  {
+    "id": "B38",
+    "name": "Solaris Multithreaded Programming Guide",
+    "price": 7,
+    "image": "images/book_38.jpg"
+  },
+  {
+    "id": "B39",
+    "name": "QuickBooks Pro 2010 Essentials",
+    "price": 9,
+    "image": "images/book_39.jpg"
+  },
+  {
+    "id": "B40",
+    "name": "Linux Device Drivers",
+    "price": 6,
+    "image": "images/book_40.jpg"
+  },
+  {
+    "id": "B41",
+    "name": "Red Hat Linux Installation Guide",
+    "price": 7,
+    "image": "images/book_41.jpg"
+  },
+  {
+    "id": "B42",
+    "name": "Algorithms",
+    "price": 7,
+    "image": "images/book_42.jpg"
+  },
+  {
+    "id": "B43",
+    "name": "Oracle8 Concepts",
+    "price": 6,
+    "image": "images/book_43.jpg"
+  },
+  {
+    "id": "B44",
+    "name": "Oracle8 Administrator's Guide",
+    "price": 8,
+    "image": "images/book_44.jpg"
+  },
+  {
+    "id": "B45",
+    "name": "The Playful Brain",
+    "price": 5,
+    "image": "images/book_45.jpg"
+  },
+  {
+    "id": "B46",
+    "name": "Barron's TOEFL Practice Exercises",
+    "price": 7,
+    "image": "images/book_46.jpg"
+  },
+  {
+    "id": "B47",
+    "name": "The Art of Computer Programming Vol. 1",
+    "price": 9,
+    "image": "images/book_47.jpg"
+  },
+  {
+    "id": "B48",
+    "name": "The Art of Computer Programming Vol. 2",
+    "price": 5,
+    "image": "images/book_48.jpg"
+  }
+]
